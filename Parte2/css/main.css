@@ -1,1 +1,27 @@
 /* Pon tu código css aqui */
+.contenedor {
+	width: 900px;
+	border: 1px solid black;
+}
+
+
+.caja1 {
+	background: #E9F611;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.caja2 {
+	background: #0D91A1;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.caja3 {
+	background: #EF2EF6;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
